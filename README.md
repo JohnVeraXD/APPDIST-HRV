@@ -1,5 +1,5 @@
 # Proyecto_Energy_System
-Estes es el repositorio del proyecyo Energy_System:/n
+Estes es el repositorio del proyecyo Energy_System: "/n"
  Sistema de Monitoreo de consumo de energía eléctrica en el hogar
 
 El proyecto está dividido en:
