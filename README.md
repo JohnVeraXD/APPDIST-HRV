@@ -16,7 +16,7 @@ https://github.com/JohnVeraXD/Cliente_Web_Energy_Sys.git
 
 
 El cliente Movil:
-
+https://github.com/Aherreras3/ProyectDistribuidaMovil.git
 
 Codigo generado con TDDT4IoTS:
 https://github.com/JohnVeraXD/Energy_System_TDDT4IoTS.git
